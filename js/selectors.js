@@ -1,1 +1,3 @@
 // declare your functions here...
+$("img[alt='the beatles making faces']")
+
